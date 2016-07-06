@@ -18,12 +18,12 @@ SysV IPC is the default; to build for TCP, run configure with
 
 
 To build, run:
-<code>
+```
 cd src/
 ./configure
 make
 make install
-</code>
+```
 
 FreeBSD: to compile `--with-ipc=tcp` and `gcc`, make sure the `-pthread` flag
 is used.
