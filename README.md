@@ -25,10 +25,8 @@ make
 make install
 </code>
 
-FreeBSD:
-
-  To compile --with-ipc=tcp and gcc, make sure the -pthread flag
-  is used.
+FreeBSD: to compile `--with-ipc=tcp` and `gcc`, make sure the `-pthread` flag
+is used.
 
 
 Notes
