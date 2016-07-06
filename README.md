@@ -3,7 +3,7 @@ FakeRoot-P
 [FakeRoot](https://wiki.debian.org/FakeRoot) is a tool that offers applications the illusion
 of root privileges. This is most often used for building packages with correct permissions.
 This code is a performance-oriented re-design of FakeRoot, scalable on multi-core architectures.
-Please see [pdf](doc/fakerootp.pdf) for more information.
+Please see [pdf](/doc/fakerootp.pdf) for more information.
 
 Building
 --------------
