@@ -1,0 +1,6 @@
+*~
+*.o
+*.out
+*.log
+cscope.*
+TAGS
