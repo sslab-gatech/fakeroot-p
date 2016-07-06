@@ -1,0 +1,1 @@
+define(FAKEROOT_VERSION, 1.20.2)
