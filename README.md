@@ -14,7 +14,7 @@ System V method of communication. When built with the TCP option,
 FakeRoot-P retains the lack of scalability of the original FakeRoot code.
 
 SysV IPC is the default; to build for TCP, run configure with
---with-ipc=tcp (case-sensitive).
+`--with-ipc=tcp` (case-sensitive).
 
 
 To build, run:
