@@ -5,8 +5,6 @@ of root privileges. This is most often used for building packages with correct p
 [FakeRoot-P](https://github.com/sslab-gatech/fakeroot-p) is a performance-oriented re-design of FakeRoot, scalable on multi-core architectures.
 Please see [PDF](/doc/fakerootp.pdf) for more information.
 
-Main repo: [https://github.com/sslab-gatech/fakeroot-p](https://github.com/sslab-gatech/fakeroot-p).
-
 Building
 --------------
 Like FakeRoot, FakeRoot-P can be built using either
